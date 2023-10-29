@@ -1,0 +1,131 @@
+body{
+align-items: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fedc97;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    
+h1 {
+     font-family: Times New Roman;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #033f63;
+    
+    
+}
+
+h3 {
+text-align: center;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+color:#28666e;
+    
+}
+caption {
+text-align: center;
+font-weight: bolder;
+font-family: Georgia;
+margin-bottom:20px;
+
+    
+}
+
+    
+table {
+    width:60%;
+    height: 40%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+    align: center;
+    padding:15px;
+    font-family: fantasy;
+    font-weight: normal;
+    font-size: 15px;
+    
+    box-align: center;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* column-width: 30px;
+    column-height: 80%;
+     */
+    
+}
+
+ 
+table, td, th {
+    border: 2px solid black;
+    
+}
+
+table.tableheader {
+   
+   
+}
+
+.tableheader {
+    color: #fedc97;
+    background-color: #033f63;
+    text-align:center;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 20px;
+}
+.text {
+padding: 10px;
+
+    color: #033f63;
+    
+    text-align:center;
+    font-family: Sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-style: italic;
+    
+}
+.one {
+    background-color: #b5b682;
+    
+}
+
+.two {
+  background-color: #7c9885;
+    
+}
+.three {
+background-color: #b5b682;    /*  */
+    
+}
+button {
+position: relative;
+
+
+color: #fedc97;
+    background-color:#033f63;;
+    border-radius: 10px;
+    padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  border: 2px solid #77aabb;
+  cursor: pointer;
+    
+}
+tr:hover {
+    background-color: #28666e;
+    color: white;
+    
+    
+}
+.buttons:hover {
+background-color: rgb(30, 157, 174);
+    color: White;
+
+    
+}
